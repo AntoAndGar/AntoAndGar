@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![gitHub secret](https://github.githubassets.com/images/mona-whisper.gif)
+
+🌱 I’m developing... my skills!
+
 <!--
 **AntoAndGar/AntoAndGar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
