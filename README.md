@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on ... Panoptic Segmentation!
 - 🌱 I’m developing... my skills!
 - 👯 I’m looking to collaborate on ... interesting research topics!
-- 🤔 I’m looking for help with ... the procrastination monkey 🐒 inside my head!
 
 <!--
 **AntoAndGar/AntoAndGar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
