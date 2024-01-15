@@ -2,7 +2,7 @@
 
 ![gitHub secret](https://github.githubassets.com/images/mona-whisper.gif)
 
-- 🔭 I’m currently working on ... Panoptic Segmentation!
+- 🔭 I’m currently working on ... Quantum AI!
 - 🌱 I’m developing... my skills!
 - 👯 I’m looking to collaborate on ... interesting research topics!
 
