@@ -2,7 +2,7 @@
 
 ![gitHub secret](https://github.githubassets.com/images/mona-whisper.gif)
 
-- 🔭 I’m currently working on ... Quantum AI!
+- 🔭 I’m currently working on ... Quantum ML!
 - 🌱 I’m developing... my skills!
 - 👯 I’m looking to collaborate on ... interesting research topics!
 
