@@ -4,9 +4,10 @@
 
 ## 💫 About me:
 - 👨🏻‍🎓 I'm a Master's degree student at Sapienza University of Rome!  
-- 🔭 I’m currently working on ... Quantum ML!
-- 🌱 I’m developing... my skills on AI, Quantum Computing and Deep Learning!
+- 🔭 I’m currently working on ... Model Merging!
+- 🌱 I’m developing... my AI, Quantum Computing and Deep Learning skills!
 - 👯 I’m looking to collaborate on ... interesting research topics!
+- 📫 Don't hesitate to reach me ... by e-mail!   
 
 <!--
 **AntoAndGar/AntoAndGar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,11 +36,11 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats:
 
-<a href="http://www.github.com/AntoAndGar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AntoAndGar&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div width="100%" align="center"><a href="http://www.github.com/AntoAndGar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AntoAndGar&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ## ✨ Top Repositories:
 
-<div width="100%" align="center"><a href="https://github.com/AntoAndGar/Intrinsic-Dimension" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoAndGar&repo=Intrinsic-Dimension&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/giorgioskij/Quecto-JL" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoAndGar&repo=Quecto-JL&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/AntoAndGar/task_singular_vectors" align="left"><img align="left" width="31%" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoAndGar&repo=task_singular_vectors&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a> <a href="https://github.com/AntoAndGar/Intrinsic-Dimension" align="left"><img align="left" width="31%" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoAndGar&repo=Intrinsic-Dimension&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a> <a href="https://github.com/giorgioskij/Quecto-JL" align="left"><img align="left" width="31%" src="https://github-readme-stats.vercel.app/api/pin/?username=AntoAndGar&repo=Quecto-JL&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=AntoAndGar&theme=nord&no-frame=true&margin-w=330&row=3&column=3&margin-h=15)
