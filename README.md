@@ -3,7 +3,7 @@
 ![gitHub secret](https://github.githubassets.com/images/mona-whisper.gif)
 
 ## 💫 About me:
-- 👨🏻‍🎓 I'm a Master's degree student at Sapienza University of Rome!  
+- 👨🏻‍🎓 I'm a PhD student at Gladia Lab in Sapienza University of Rome!  
 - 🔭 I’m currently working on ... Model Merging!
 - 🌱 I’m developing... my AI, Quantum Computing and Deep Learning skills!
 - 👯 I’m looking to collaborate on ... interesting research topics!
